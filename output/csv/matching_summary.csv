@@ -1,0 +1,9 @@
+metric,count
+raw ads,612
+deduplicated ads,570
+duplicate rows removed,42
+ads matched by exact company name,355
+unique listed companies matched exactly,341
+ads matched after parent-company matching,519
+unique listed companies matched after parent-company matching,363
+additional ads matched beyond exact matching,164
